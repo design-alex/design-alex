@@ -40,9 +40,14 @@ Feel free to explore my repositories or get in touch with me if you have any que
 
 ## :zap: Recent Activity
 
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=design-alex&hide_border=true&layout=compact)
 
+
+
+###Activity
+<!-- START_SECCTION: Activity -->
+
+<!-- END_SECCTION: Activity -->
 
 
 
