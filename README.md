@@ -44,6 +44,10 @@ Feel free to explore my repositories or get in touch with me if you have any que
 
 
 ##Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
 
