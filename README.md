@@ -38,12 +38,12 @@ Here are some of the tools and technologies I love working with:
 
 Feel free to explore my repositories or get in touch with me if you have any questions or just want to talk! ✌️
 
-## :zap: Recent Activity
+## :zap: Languages
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=design-alex&hide_border=true&layout=compact)
 
 
-##Activity
+## :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#4](https://github.com/design-alex/platziRepo/issues/4) in [design-alex/platziRepo](https://github.com/design-alex/platziRepo)
 2. 🎉 Merged PR [#7](https://github.com/design-alex/platziRepo/pull/7) in [design-alex/platziRepo](https://github.com/design-alex/platziRepo)
