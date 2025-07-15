@@ -45,11 +45,11 @@ Feel free to explore my repositories or get in touch with me if you have any que
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/design-alex/tercer-repo/pull/1) in [design-alex/tercer-repo](https://github.com/design-alex/tercer-repo)
-2. 🔒 Closed issue [#4](https://github.com/design-alex/platziRepo/issues/4) in [design-alex/platziRepo](https://github.com/design-alex/platziRepo)
-3. 🎉 Merged PR [#7](https://github.com/design-alex/platziRepo/pull/7) in [design-alex/platziRepo](https://github.com/design-alex/platziRepo)
-4. 💪 Opened PR [#7](https://github.com/design-alex/platziRepo/pull/7) in [design-alex/platziRepo](https://github.com/design-alex/platziRepo)
-5. ❗ Opened issue [#6](https://github.com/design-alex/platziRepo/issues/6) in [design-alex/platziRepo](https://github.com/design-alex/platziRepo)
+1. 🚀 Published release [v0.1.0](https://github.com/design-alex/Repo4/releases/tag/v0.1.0) in [design-alex/Repo4](https://github.com/design-alex/Repo4)
+2. 💪 Opened PR [#1](https://github.com/design-alex/tercer-repo/pull/1) in [design-alex/tercer-repo](https://github.com/design-alex/tercer-repo)
+3. 🔒 Closed issue [#4](https://github.com/design-alex/platziRepo/issues/4) in [design-alex/platziRepo](https://github.com/design-alex/platziRepo)
+4. 🎉 Merged PR [#7](https://github.com/design-alex/platziRepo/pull/7) in [design-alex/platziRepo](https://github.com/design-alex/platziRepo)
+5. 💪 Opened PR [#7](https://github.com/design-alex/platziRepo/pull/7) in [design-alex/platziRepo](https://github.com/design-alex/platziRepo)
 <!--END_SECTION:activity-->
 
 
